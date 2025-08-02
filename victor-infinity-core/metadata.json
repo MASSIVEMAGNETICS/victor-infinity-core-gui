@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Victor Infinity-Core",
+  "description": "A multi-functional interface for the Victor Infinity-Core, featuring tabbed access to chat, module loading, audio synthesis, and system controls.",
+  "requestFramePermissions": []
+}
